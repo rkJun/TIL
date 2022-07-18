@@ -27,8 +27,8 @@
 
 ## References
 
-- These are TIL-related repositories that I referred to when I started TIL.
-  If someone starts TIL, I think the link of the users below will be helpful.
+These are TIL-related repositories that I referred to when I started TIL.  
+If someone starts TIL, I think the link of the users below will be helpful.
 
 * [@Integerous](https://github.com/Integerous/TIL)
 * [@jbranchaud](https://github.com/jbranchaud/til)
