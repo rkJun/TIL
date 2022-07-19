@@ -5,13 +5,19 @@
 ---
 
 ## Categories
+* [Elasticsearch](#elasticsearch)
 * [JavaScript](#javascript)
 * [MacOS](#macos)
 * [Visual Studio Code](#visual-studio-code)
 
 ---
 
+### Elasticsearch
+
+- [Elasticsearch 에서 JSON 문자열을 JSON 객체 필드로 추가하기 (feat.pipeline)](Elasticsearch/json-string-to-json-object-feat-pipeline.md)
+
 ### JavaScript
+
 - [Base64 인코딩과 디코딩](JavaScript/base64-encode-and-decode.md)
 
 ### MacOS
