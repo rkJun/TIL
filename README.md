@@ -48,7 +48,7 @@
 * [Integerous/TIL](https://github.com/Integerous/TIL)
 * [ksu3101/TIL](https://github.com/ksu3101/TIL)
 * [milooy/TIL](https://github.com/milooy/TIL)
-* [namjunemy/TIL](https://github.com/namjunemy/TIL
+* [namjunemy/TIL](https://github.com/namjunemy/TIL)
 
 ## License
 
