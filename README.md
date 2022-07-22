@@ -36,13 +36,28 @@
 
 ---
 
-## References
+## Other TIL Collections
 
-These are TIL-related repositories that I referred to when I started TIL.  
-If someone starts TIL, I think the link of the users below will be helpful.
+* [Today I Learned by Hashrocket](https://til.hashrocket.com)
+* [jbranchaud/til](https://github.com/jbranchaud/til)
+* [jwworth/til](https://github.com/jwworth/til)
+* [thoughtbot/til](https://github.com/thoughtbot/til)
 
-* [@Integerous](https://github.com/Integerous/TIL)
-* [@jbranchaud](https://github.com/jbranchaud/til)
-* [@ksu3101](https://github.com/ksu3101/TIL)
-* [@milooy](https://github.com/milooy/TIL)
-* [@thoughtbot](https://github.com/thoughtbot/til)
+## Other TIL Collections in Korean
+
+* [Integerous/TIL](https://github.com/Integerous/TIL)
+* [ksu3101/TIL](https://github.com/ksu3101/TIL)
+* [milooy/TIL](https://github.com/milooy/TIL)
+* [namjunemy/TIL](https://github.com/namjunemy/TIL
+
+## License
+
+&copy; 2022 Juntai Park
+
+This repository is licensed under the MIT license. See `LICENSE` for details.
+
+
+
+
+
+
